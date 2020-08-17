@@ -1,0 +1,159 @@
+#+TITLE:FIN 420: Financial Analytics
+#+AUTHOR: SYLLABUS
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+#+OPTIONS: toc:nil
+#+DATE:
+
+
+#+BEGIN_CENTER
+SUNY POLYTECHNIC INSTITUTE
+
+SCHOOL OF BUSINESS ADMINISTRATION
+#+END_CENTER
+\\
+\\
+**Instructor**: Matthew Brigida, Ph.D.\\
+\\
+**Office**: Donovan 1277\\
+\\
+**Office Hours**: TBD\\
+\\
+**Email**:  matthew.brigida@sunyit.edu\\
+\\
+**Class Location**: TBD\\
+\\
+**Class Day/Time**: TBD\\
+\\
+**Text**: Quantitative Financial Analytics: The Path To Investment Profits, by Edward E Williams and John A Dobelman.  ISBN-13: 978-9813224254\\
+\\
+**Supplementary Texts/Materials**: 
++ Advanced R, by Hadley Wickam (http://adv-r.had.co.nz/)
++ Python for Finance: Analyze Big Financial Data, Hilpisch,  ISBN-10: 9781491945285 
++ [[https://financial-education.github.io/intro_corp_fin.html][Financial Education]] (www.readthefinance.com)
++ The above links to make of the presentation at [[https://www.5minutefinance.org/][5-Minute Finance,]] specifically the presentations listed in the [[https://github.com/FinancialMarkets/5MinuteFinance][Fundamentals and Corporate Finance Sections here]].
+
+* Description
+
+An overview of analytical methods used in finance, and their applications.  Particular focus will be paid to methods for handling large data sets used in high-frequency trading, and machine learning and artificial intelligence methods applied to banking, investments, and energy markets.
+
+#+begin_comment
+Overview
+
+-  This course will present the fundamentals of managerial finance as a vital part of the complete business ecosystem. Importance is placed on becoming familiar with the rudimentary tools and techniques that act as the basis for all further study and function of finance.
+
+-  Emphasis is also placed on exploring the human, technological, and environmental impacts on financial decision making and the societal variables that facilitate positive (financial and social) outcomes.
+
+-  Attention to current events and linkage between financial markets and corporate decision-making and vis-a-vis is discussed.
+
+-  Introduction to the role of the change agent and changing technology in financial analysis and financial decision-making processes.
+#+end_comment
+
+** Course Learning Outcomes & Objectives
+
++ CLO 1. Technical Competence: Adept in applying analytics technology to solve institutional problems and enable effective financial decision making.
++ CLO 2. Analytical Problem Framing: Demonstrate individual capacity to evaluate and deploy analytical methods selected from a diverse portfolio of tools analyze and manage common financial decisions.
++ CLO 3. Strategic and Integrative Thinking: Understand the baseline resources available for analyzing and managing a firm’s financial performance. Including collecting data, processing information and evaluating and communicating outcomes with partners; differentiate between the accounting function as a preparer of data and information and the finance function as a user of information for decision making and the role of ethics in the process.
++ CLO 4. Leadership and Communication: Be capable of expressing key concepts and terms commonly used in financial analytics; by using effective written, oral and interpersonal communications to contribute to the financial performance of financial firms.
+
+* Projects
+
+There are 5 required projects in this course.  They are:
+
++ Algorithm Identification in High-Frequency Markets
++ Determining the Effect of Bank Capital Adequacy Requirements
++ Bank Stress Testing
++ Machine Learning in Portfolio Construction
++ Constructing an Artificial Intelligence Investment Advisor
+
+The projects will constitute 80% of your final grade.  Each project is equally-weighted.
+
+* Exams
+
+There will be a comprehensive final exam at the end of the semester.  Failure to take the final exam will result in a grade of 0, unless it is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
+
+* Attendance/Participation
+
+Throughout the semester I will take attendance, give unanounced quizzes, and otherwise evaluate your participation.  Failure to attend class and participate will reduce your participation score, unless your absence is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
+
+* Grading
+
+#+BEGIN_CENTER
+
+| Item                             | Points |
+|----------------------------------+--------|
+| Projects                         |     80 |
+| Attendance/Participation         |     10 |
+| Final Exam                       |     10 |
+|----------------------------------+--------|
+| Total Points                     |    100 |
+|----------------------------------+--------|
+
+#+END_CENTER
+
+#+BEGIN_CENTER
+**Final grades will be assigned according to the following scale**:
+#+END_CENTER
+
+- 90 - 100 A
+- 80 - 89.9 B
+- 70 - 79.9 C
+- 60 - 69.9 D
+- $<$ 60 F
+
+#+BEGIN_QUOTE
++/- grades may be assigned at the instructors discretion.
+#+END_QUOTE
+
+** An Important Note on Grading
+
+#+BEGIN_QUOTE
+There is no special consideration if you need a certain grade in this course to graduate.  **If you require a certain grade in this class to graduate it is your responsibility to earn that grade.** Specifically if you receive a `D` in this course I will not allow you to do extra assignments after the course is complete in exchange for a higher grade. 
+#+END_QUOTE
+
+* How To Ask Questions
+
+[[https://stackoverflow.com/help/how-to-ask][See this post.]]  
+
+* Email Communication
+
+Questions about course material should be posted to the most relevant discussion board.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 302). 
+
+* Guidelines and Accommodations
+
+Academic Integrity Policy Students Enrolled in this course are required to understand and fully comply with all aspects of the Academic Integrity Policy as described in the SUNY Polytechnic Institute Handbook (available at:  https://sunypoly.edu/pdf/student_handbook.pdf )
+
+** Accommodations for Students with Disabilities
+
+Students with disabilities are welcome at SUNY Polytechnic Institute.
+The Disabilities Services Office is located in the Career Services Suite, B101, Kunsela Hall
+Hours: Monday through Friday 8:30 a.m. – 4:30 p.m. or by appointment.
+E-mail: suzanne.sprague@sunyit.edu
+Phone: (315) 792-7170
+
+Any current or prospective student may contact our office to discuss potential academic accommodations. Typical accommodations include extended time for testing, testing in a quiet location, textbooks in alternate format, and others as determined by the nature of the disability. These accommodations must be supported by documentation from outside sources, such as a recent psychological evaluation or medical report that clearly identifies the nature of your disability and the impact of your disability or treatment upon learning. (SUNY Poly is not responsible for providing evaluation or funding to complete the needed documentation.)
+
+The Disabilities Services Office will assist with requesting the required documentation or exploring resources that may provide testing or documentation. Once documentation is received, the Disability Counselor meets with the student to discuss the information based on his or her experiences and perspective. A student’s explanation of how his or her disability affects learning and what accommodations are needed is extremely important. Once a determination is made regarding the reasonable and appropriate accommodations, a plan is written which students sign and share with instructors. This plan does not disclose the nature of the disability, although many students have found that discussing their circumstances with faculty can be helpful.
+
+Accommodations are implemented to ensure compliance with the Americans with Disabilities Act of 1990 (ADA) and Section 504 (subsection E) of the Rehabilitation Act. The intent of which is to provide access for otherwise qualified persons. SUNY Poly is not required to lower or substantially modify essential academic requirements, or make modifications that would fundamentally alter the nature of a service, program, or activity or that would result in an undue financial or administrative burden. Additionally, accommodation plans must be updated each semester.
+
+The Disabilities Services Office is happy to advocate or coordinate with outside service providers, by student request and with written consent to communicate. Parents should be aware that legal rights and responsibilities change from high school to the college, both in terms of the type of support provided and in terms of parental involvement in the process. Students are solely responsible for self-identifying and following up with our office for any needs that they may have. Any student who wishes to have our office communicate with a parent must sign a written consent for permission to communicate.
+
+** Course Syllabus Disclosure Statement Spring 2020
+
+#+begin_quote
+Accommodations for Students with Disabilities
+
+In compliance with the Americans with Disabilities Act of 1990 and Section 504 of the Rehabilitation Act, SUNY Polytechnic Institute is committed to ensuring comprehensive educational access and accommodations for all registered students seeking access to meet course requirements and fully participate in programs and activities.  Students with documented disabilities or medical conditions are encouraged to request these services by registering with the Office of Disability Services.  For information related to these services or to schedule an appointment, please contact the Office of Disability Services using the information provided below.
+
+Evelyn Lester, Director
+Office of Disability Services
+lestere@sunypoly.edu
+(315) 792-7170
+
+Utica Campus
+Peter J. Cayan Library, L145
+
+Albany Campus
+Suite 309, Students Services Office
+NanoFab South
+#+end_quote
