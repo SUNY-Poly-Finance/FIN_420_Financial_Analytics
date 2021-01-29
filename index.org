@@ -1,7 +1,7 @@
 #+TITLE:FIN 420: Financial Analytics
 #+AUTHOR: SYLLABUS
-# #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
-#+OPTIONS: toc:nil
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+# #+OPTIONS: toc:nil
 #+DATE:
 
 
@@ -29,8 +29,8 @@ SCHOOL OF BUSINESS ADMINISTRATION
 **Supplementary Texts/Materials**: 
 + Advanced R, by Hadley Wickam (http://adv-r.had.co.nz/)
 + Python for Finance: Analyze Big Financial Data, Hilpisch,  ISBN-10: 9781491945285 
-+ [[https://financial-education.github.io/intro_corp_fin.html][Financial Education]] (www.readthefinance.com)
-+ The above links to make of the presentation at [[https://www.5minutefinance.org/][5-Minute Finance,]] specifically the presentations listed in the [[https://github.com/FinancialMarkets/5MinuteFinance][Fundamentals and Corporate Finance Sections here]].
++ [[https://financial-education.github.io/][Financial Education]]
++ [[https://www.5minutefinance.org/][5-Minute Finance]]
 
 * Description
 
@@ -55,21 +55,154 @@ Overview
 + CLO 3. Strategic and Integrative Thinking: Understand the baseline resources available for analyzing and managing a firm’s financial performance. Including collecting data, processing information and evaluating and communicating outcomes with partners; differentiate between the accounting function as a preparer of data and information and the finance function as a user of information for decision making and the role of ethics in the process.
 + CLO 4. Leadership and Communication: Be capable of expressing key concepts and terms commonly used in financial analytics; by using effective written, oral and interpersonal communications to contribute to the financial performance of financial firms.
 
-* Projects
+* Course Outline
 
-There are 5 required projects in this course.  They are:
+** Week 0
 
-+ Algorithm Identification in High-Frequency Markets
-+ Determining the Effect of Bank Capital Adequacy Requirements
-+ Bank Stress Testing
-+ Machine Learning in Portfolio Construction
-+ Constructing an Artificial Intelligence Investment Advisor
+- Course Overview:  
+  + What we will cover in the course.  
+  + The use of Python in finance.
 
-The projects will constitute 80% of your final grade.  Each project is equally-weighted.
+** Week 1
+
+
+- Python Relative to other tools.
+  + Excel
+  + Other Programming Languages
+  + Comparison with R
+  + Using Javascript for Visualization
+
+** Week 2
+
+[[https://colab.research.google.com/drive/1f2JRrZsZ029JNiPnP_GNiVsyi-e6MXO5][Colab Notebook]]
+
+- You are on a Linux Server
+-  Interacting with Python
+  + Google's Colab and Jupyter
+    - Introduction to markdown
+    - Sharing notebooks
+- Creating Functions and Time-Value-of-Money calculations
+- Basic control flow
+  + The importance of indentation
+
+** Week 3
+
+[[https://colab.research.google.com/drive/12QKdTc3ulsEQ2cAdmbhq5RkTx9oB1YZ_][Colab Notebook]]
+
+The Python ecosystem.
+
+-  An Introduction to Useful Packages:
+  + [[https://pandas.pydata.org/][Pandas]]
+  + [[https://numpy.org/][Numpy]]
+  + Scipy and Scikit Learn
+  + Pytorch
+  + Tensorflow and Keras 
+
+- Finding Packages
+  + pip
+
+- Python Packages
+  + Extending the core language
+  + Our most used packages.
+  + Installing and Loading.
+  + How to call methods/functions from a package.
+
+-  Python Classes and Object Orientation
+  + What is a Class
+  + Function vs Method:  methods are functions attached to a class
+
+** Week 4
+
+[[https://colab.research.google.com/drive/1KLqsQWbXHYSruQXBAJ1QamsxV9FLDN_R][Colab Notebook]]
+
+- An intro to Pandas
+- Reading csv and excel files.
+  + Locally and over the web.
+- Inspecting the objects
+- Determining dataframe size and the column types.
+- Adding new columns
+
+** Week 5
+
+[[https://colab.research.google.com/drive/16UVjO2PEQUN5b1JoI__JYfj7K_aMuom7#scrollTo=nBbjWR1JYksh][Colab Notebook]]
+
+** Week 6
+
+[[https://colab.research.google.com/drive/18axbgTGt66R7fXa3tsiErQMoyb8m-AJD][Colab Notebook]]
+
+** Week 7
+
+[[https://colab.research.google.com/drive/16h1ykVWbb5fL-xRgOrYmYe9SqfrSin1x#scrollTo=4cmbxkCjM1fH][Colab Notebook]]
+
+- An introduction to Application Programming Interfaces (APIs) and online
+  data
+  + Example: Coinbase API
+  + Example: Interactive Brokers API
+  + EIA API.
+- Connecting to databases.
+** Week 8
+
+[[https://colab.research.google.com/drive/1GGXpVBhSIypRslVcjWB5TYcexeRxZlyY][Colab Notebook]]
+
+-  An overview of scipy and basic statistics in Python.
+  + Extracting coefficients from an estimated regression model.
+
+** Week 9
+
+[[https://colab.research.google.com/drive/1u4BUOasPaIVfe8-rD73QXlXmt5EMIMxK][Colab Notebook]]
+
+** Week 10
+
+The previous sections have used data available online through APIs and simple files.  Commonly the financial analyst will have to query relational (SQL) databases.  In this section we'll cover the basics of connecting to a SQL database in Python, and executing SQL queries.  The resulting data table will, of course, be imported back into Python.
+
+-  Good website to learn SQL (MySQL): [[https://www.db-fiddle.com/][db-fiddle]]
+
+A quick project using SQL.  Is there an online SQL database we can query?  Should we just put the FDIC one online?
+
+
+** Week 11
+
+[[https://colab.research.google.com/drive/1CQ00H_duTY2lhiwzJ041JTPD6BGBdk5y#scrollTo=Z5RfT4TNucfe][Colab Notebook]]
+
+- Visualization:
+  + Matplotlib
+  + Seaborn
+  + Plotly
+  + ggplot (using plotnine library)
+- Interactive Web Apps via Plotly's Dash
+
+** Week 12
+
+- The Integrated Development Environment (IDE)
+  + What does an IDE provide?
+    - Code Completion
+    - Linter
+  + Git/Github and IDE Integration
+
+** Week 13
+
+- Git/Github and IDE Integration
+  + Why use version control?
+    - Collaborate with others more easily.
+    - Show others your work.
+
+- [[https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb][Github from Colab]]
+
+- Virtual Environments
+  +  Ensuring compatible python and package versions.
+  +  Anaconda Python
+
+** Bonus Project: The Pairs Trade
+** Bonus Project: Classify Failed Banks with a Deep Neural Network
+** Algorithm Identification in High-Frequency Markets
+** Determining the Effect of Bank Capital Adequacy Requirements
+** Bank Stress Testing
+** Machine Learning in Portfolio Construction
+** Constructing an Artificial Intelligence Investment Advisor
 
 * Exams
 
-There will be a comprehensive final exam at the end of the semester.  Failure to take the final exam will result in a grade of 0, unless it is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
+There will be two brief exams---a midterm and a final.
 
 * Attendance/Participation
 
@@ -79,21 +212,23 @@ Throughout the semester I will take attendance, give unanounced quizzes, and oth
 
 #+BEGIN_CENTER
 
-| Item                             | Points |
-|----------------------------------+--------|
-| Projects                         |     80 |
-| Attendance/Participation         |     10 |
-| Final Exam                       |     10 |
-|----------------------------------+--------|
-| Total Points                     |    100 |
-|----------------------------------+--------|
+| Item                     | Points |
+|--------------------------+--------|
+| Assignments              |     60 |
+| Midterm                  |     10 |
+| Final Exam               |     10 |
+| Attendance/Participation |     20 |
+|--------------------------+--------|
+| Total Points             |    100 |
+|--------------------------+--------|
 
 #+END_CENTER
 
-#+BEGIN_CENTER
-**Final grades will be assigned according to the following scale**:
-#+END_CENTER
+# #+BEGIN_CENTER
+Final grades will be assigned according to the A+, A, A-, etc scale.
+# #+END_CENTER
 
+#+begin_comment
 - 90 - 100 A
 - 80 - 89.9 B
 - 70 - 79.9 C
@@ -103,6 +238,9 @@ Throughout the semester I will take attendance, give unanounced quizzes, and oth
 #+BEGIN_QUOTE
 +/- grades may be assigned at the instructors discretion.
 #+END_QUOTE
+
+#+end_comment
+
 
 ** An Important Note on Grading
 
@@ -116,7 +254,7 @@ There is no special consideration if you need a certain grade in this course to 
 
 * Email Communication
 
-Questions about course material should be posted to the most relevant discussion board.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 302). 
+Questions about course material should be posted to the most relevant discussion board.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 420). 
 
 * Guidelines and Accommodations
 
