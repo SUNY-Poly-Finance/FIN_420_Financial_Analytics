@@ -1,7 +1,7 @@
 #+TITLE:FIN 420: Financial Analytics
 #+AUTHOR: SYLLABUS
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
-# #+OPTIONS: toc:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: toc:nil
 #+DATE:
 
 
@@ -16,21 +16,20 @@ SCHOOL OF BUSINESS ADMINISTRATION
 \\
 **Office**: Donovan 1277\\
 \\
-**Office Hours**: TBD\\
+**Office Hours**: Two hours before each class.\\
 \\
 **Email**:  matthew.brigida@sunyit.edu\\
 \\
-**Class Location**: TBD\\
+**Class Location**: Online\\
 \\
-**Class Day/Time**: TBD\\
+**Class Day/Time**: Wednesdays 6:00--9:30pm\\
 \\
-**Text**: Quantitative Financial Analytics: The Path To Investment Profits, by Edward E Williams and John A Dobelman.  ISBN-13: 978-9813224254\\
-\\
-**Supplementary Texts/Materials**: 
+**Supplementary Texts/Materials**:
 + Advanced R, by Hadley Wickam (http://adv-r.had.co.nz/)
-+ Python for Finance: Analyze Big Financial Data, Hilpisch,  ISBN-10: 9781491945285 
 + [[https://financial-education.github.io/][Financial Education]]
 + [[https://www.5minutefinance.org/][5-Minute Finance]]
+# + Python for Finance: Analyze Big Financial Data, Hilpisch,  ISBN-10: 9781491945285 
+# + Quantitative Financial Analytics: The Path To Investment Profits, by Edward E Williams and John A Dobelman.  ISBN-13: 978-9813224254
 
 * Description
 
@@ -157,7 +156,7 @@ The previous sections have used data available online through APIs and simple fi
 
 -  Good website to learn SQL (MySQL): [[https://www.db-fiddle.com/][db-fiddle]]
 
-A quick project using SQL.  Is there an online SQL database we can query?  Should we just put the FDIC one online?
+# A quick project using SQL.  Is there an online SQL database we can query?  Should we just put the FDIC one online?
 
 
 ** Week 11
