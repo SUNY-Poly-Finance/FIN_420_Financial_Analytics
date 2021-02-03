@@ -1,7 +1,7 @@
 #+TITLE:FIN 420: Financial Analytics
 #+AUTHOR: SYLLABUS
-# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
-#+OPTIONS: toc:nil
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+# #+OPTIONS: toc:nil
 #+DATE:
 
 
