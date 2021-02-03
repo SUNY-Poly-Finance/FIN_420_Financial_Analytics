@@ -62,16 +62,13 @@ Overview
   + What we will cover in the course.  
   + The use of Python in finance.
 
-** Week 1
-
-
 - Python Relative to other tools.
   + Excel
   + Other Programming Languages
   + Comparison with R
   + Using Javascript for Visualization
 
-** Week 2
+** Week 1
 
 [[https://colab.research.google.com/drive/1f2JRrZsZ029JNiPnP_GNiVsyi-e6MXO5][Colab Notebook]]
 
@@ -84,7 +81,7 @@ Overview
 - Basic control flow
   + The importance of indentation
 
-** Week 3
+** Week 2
 
 [[https://colab.research.google.com/drive/12QKdTc3ulsEQ2cAdmbhq5RkTx9oB1YZ_][Colab Notebook]]
 
@@ -110,7 +107,7 @@ The Python ecosystem.
   + What is a Class
   + Function vs Method:  methods are functions attached to a class
 
-** Week 4
+** Week 3
 
 [[https://colab.research.google.com/drive/1KLqsQWbXHYSruQXBAJ1QamsxV9FLDN_R][Colab Notebook]]
 
@@ -121,13 +118,19 @@ The Python ecosystem.
 - Determining dataframe size and the column types.
 - Adding new columns
 
-** Week 5
+** Week 4
 
 [[https://colab.research.google.com/drive/16UVjO2PEQUN5b1JoI__JYfj7K_aMuom7#scrollTo=nBbjWR1JYksh][Colab Notebook]]
 
-** Week 6
+** Week 5
 
 [[https://colab.research.google.com/drive/18axbgTGt66R7fXa3tsiErQMoyb8m-AJD][Colab Notebook]]
+
+** Week 6
+
+[[https://colab.research.google.com/drive/1TWjqlgTp1Fyyy_ykp48LBVFWjRqtBwzo][Colab Notebook]]
+
+SQL from Python
 
 ** Week 7
 
@@ -139,6 +142,7 @@ The Python ecosystem.
   + Example: Interactive Brokers API
   + EIA API.
 - Connecting to databases.
+
 ** Week 8
 
 [[https://colab.research.google.com/drive/1GGXpVBhSIypRslVcjWB5TYcexeRxZlyY][Colab Notebook]]
