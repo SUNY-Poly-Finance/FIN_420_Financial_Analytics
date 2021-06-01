@@ -18,11 +18,13 @@ SCHOOL OF BUSINESS ADMINISTRATION
 \\
 **Office Hours**: Two hours before each class.\\
 \\
-**Email**:  matthew.brigida@sunyit.edu\\
+**Email**:  matthew.brigida@sunypoly.edu\\
 \\
 **Class Location**: Online\\
 \\
+#+begin_comment
 **Class Day/Time**: Wednesdays 6:00--9:30pm\\
+#+end_comment
 \\
 **Supplementary Texts/Materials**:
 + Advanced R, by Hadley Wickam (http://adv-r.had.co.nz/)
