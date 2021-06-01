@@ -20,7 +20,7 @@ SCHOOL OF BUSINESS ADMINISTRATION
 \\
 **Email**:  matthew.brigida@sunypoly.edu\\
 \\
-**Class Location**: Online\\
+**Class Location**: Online Asynchronous\\
 \\
 #+begin_comment
 **Class Day/Time**: Wednesdays 6:00--9:30pm\\
@@ -219,16 +219,16 @@ Throughout the semester I will take attendance, give unanounced quizzes, and oth
 
 | Item                     | Points |
 |--------------------------+--------|
-| Assignments              |     60 |
-| Midterm                  |     10 |
-| Final Exam               |     10 |
+| Assignments              |     80 |
 | Attendance/Participation |     20 |
 |--------------------------+--------|
 | Total Points             |    100 |
 |--------------------------+--------|
-
 #+END_CENTER
-
+#+begin_comment
+| Midterm                  |     10 |
+| Final Exam               |     10 |
+#+end_comment
 # #+BEGIN_CENTER
 Final grades will be assigned according to the A+, A, A-, etc scale.
 # #+END_CENTER
