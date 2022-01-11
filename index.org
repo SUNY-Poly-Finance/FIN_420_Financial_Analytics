@@ -1,7 +1,7 @@
 #+TITLE:FIN 420: Financial Analytics
 #+AUTHOR: SYLLABUS
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
-# #+OPTIONS: toc:nil
+#  #+OPTIONS: toc:nil
 #+DATE:
 
 
@@ -29,7 +29,6 @@ SCHOOL OF BUSINESS ADMINISTRATION
 **Supplementary Texts/Materials**:
 + Advanced R, by Hadley Wickam (http://adv-r.had.co.nz/)
 + [[https://financial-education.github.io/][Financial Education]]
-+ [[https://www.5minutefinance.org/][5-Minute Finance]]
 # + Python for Finance: Analyze Big Financial Data, Hilpisch,  ISBN-10: 9781491945285 
 # + Quantitative Financial Analytics: The Path To Investment Profits, by Edward E Williams and John A Dobelman.  ISBN-13: 978-9813224254
 
@@ -267,36 +266,10 @@ Academic Integrity Policy Students Enrolled in this course are required to under
 
 ** Accommodations for Students with Disabilities
 
-Students with disabilities are welcome at SUNY Polytechnic Institute.
-The Disabilities Services Office is located in the Career Services Suite, B101, Kunsela Hall
-Hours: Monday through Friday 8:30 a.m. – 4:30 p.m. or by appointment.
-E-mail: suzanne.sprague@sunyit.edu
-Phone: (315) 792-7170
-
-Any current or prospective student may contact our office to discuss potential academic accommodations. Typical accommodations include extended time for testing, testing in a quiet location, textbooks in alternate format, and others as determined by the nature of the disability. These accommodations must be supported by documentation from outside sources, such as a recent psychological evaluation or medical report that clearly identifies the nature of your disability and the impact of your disability or treatment upon learning. (SUNY Poly is not responsible for providing evaluation or funding to complete the needed documentation.)
-
-The Disabilities Services Office will assist with requesting the required documentation or exploring resources that may provide testing or documentation. Once documentation is received, the Disability Counselor meets with the student to discuss the information based on his or her experiences and perspective. A student’s explanation of how his or her disability affects learning and what accommodations are needed is extremely important. Once a determination is made regarding the reasonable and appropriate accommodations, a plan is written which students sign and share with instructors. This plan does not disclose the nature of the disability, although many students have found that discussing their circumstances with faculty can be helpful.
-
-Accommodations are implemented to ensure compliance with the Americans with Disabilities Act of 1990 (ADA) and Section 504 (subsection E) of the Rehabilitation Act. The intent of which is to provide access for otherwise qualified persons. SUNY Poly is not required to lower or substantially modify essential academic requirements, or make modifications that would fundamentally alter the nature of a service, program, or activity or that would result in an undue financial or administrative burden. Additionally, accommodation plans must be updated each semester.
-
-The Disabilities Services Office is happy to advocate or coordinate with outside service providers, by student request and with written consent to communicate. Parents should be aware that legal rights and responsibilities change from high school to the college, both in terms of the type of support provided and in terms of parental involvement in the process. Students are solely responsible for self-identifying and following up with our office for any needs that they may have. Any student who wishes to have our office communicate with a parent must sign a written consent for permission to communicate.
-
-** Course Syllabus Disclosure Statement Spring 2020
-
 #+begin_quote
-Accommodations for Students with Disabilities
+In compliance with the Americans with Disabilities Act of 1990 and Section 504 of the Rehabilitation Act, SUNY Polytechnic Institute is committed to ensuring comprehensive educational access and accommodations for all registered students seeking access to meet course requirements and fully participate in programs and activities.  Students with documented disabilities or medical conditions are encouraged to request these services by registering with the Office of Disability Services. Please request accommodations early in the semester, or as soon as you become registered with Disability Services, so that we have adequate time to arrange your approved academic accommodation/s.  Once Disability Services creates your accommodation plan, it is your responsibility to provide me a copy of the accommodation plan.
 
-In compliance with the Americans with Disabilities Act of 1990 and Section 504 of the Rehabilitation Act, SUNY Polytechnic Institute is committed to ensuring comprehensive educational access and accommodations for all registered students seeking access to meet course requirements and fully participate in programs and activities.  Students with documented disabilities or medical conditions are encouraged to request these services by registering with the Office of Disability Services.  For information related to these services or to schedule an appointment, please contact the Office of Disability Services using the information provided below.
+If you experience any access concerns that may require the need for adaptive or alternate format/presentation of materials, reach out to me or Disability Services right away. 
 
-Evelyn Lester, Director
-Office of Disability Services
-lestere@sunypoly.edu
-(315) 792-7170
-
-Utica Campus
-Peter J. Cayan Library, L145
-
-Albany Campus
-Suite 309, Students Services Office
-NanoFab South
+For information related to these services or to schedule an appointment, please contact the Office of Disability Services using the information provided below.  The Office of Disability Services can accommodate virtual meeting requests.  The website has helpful information, and the link can be found here: https://sunypoly.edu/student-life/diversity-equity-inclusion/disabilities-services/contact-us.html
 #+end_quote
