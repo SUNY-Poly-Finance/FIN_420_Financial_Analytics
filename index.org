@@ -1,9 +1,8 @@
-#+TITLE:FIN 420: Financial Analytics
-#+AUTHOR: SYLLABUS
+#+TITLE:
+#+AUTHOR: 
+# #+OPTIONS: toc:nil
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
-#  #+OPTIONS: toc:nil
 #+DATE:
-
 
 #+BEGIN_CENTER
 SUNY POLYTECHNIC INSTITUTE
@@ -12,11 +11,16 @@ SCHOOL OF BUSINESS ADMINISTRATION
 #+END_CENTER
 \\
 \\
+#+BEGIN_CENTER
+**FIN 420: FINANCIAL ANALYTICS**
+#+END_CENTER
+\\
+\\
 **Instructor**: Matthew Brigida, Ph.D.\\
 \\
 **Office**: Donovan 1277\\
 \\
-**Office Hours**: Two hours before each class.\\
+**Office Hours**: On request.\\
 \\
 **Email**:  matthew.brigida@sunypoly.edu\\
 \\
@@ -27,7 +31,7 @@ SCHOOL OF BUSINESS ADMINISTRATION
 #+end_comment
 \\
 **Supplementary Texts/Materials**:
-+ Advanced R, by Hadley Wickam (http://adv-r.had.co.nz/)
+# + Advanced R, by Hadley Wickam (http://adv-r.had.co.nz/)
 + [[https://financial-education.github.io/][Financial Education]]
 # + Python for Finance: Analyze Big Financial Data, Hilpisch,  ISBN-10: 9781491945285 
 # + Quantitative Financial Analytics: The Path To Investment Profits, by Edward E Williams and John A Dobelman.  ISBN-13: 978-9813224254
@@ -55,162 +59,32 @@ Overview
 + CLO 3. Strategic and Integrative Thinking: Understand the baseline resources available for analyzing and managing a firm’s financial performance. Including collecting data, processing information and evaluating and communicating outcomes with partners; differentiate between the accounting function as a preparer of data and information and the finance function as a user of information for decision making and the role of ethics in the process.
 + CLO 4. Leadership and Communication: Be capable of expressing key concepts and terms commonly used in financial analytics; by using effective written, oral and interpersonal communications to contribute to the financial performance of financial firms.
 
+* Due Dates
+
+#+begin_comment
+The week 1 Colab notebook is due January 29.  Each Sunday thereafter the next Colab notebook is due.  For example, the week 2 Colab notebook is due February 5th.
+
+It is important that you submit your assignment by the due date, particularly early in the semester.  By doing so we can identify any issues early.
+#+end_comment
+
+Assignments 1 through 6 are due June 30.  Assignments 7 through 12 are due July 23.  
+
+
 * Course Outline
 
-** Week 0
-
-- Course Overview:  
-  + What we will cover in the course.  
-  + The use of Python in finance.
-
-- Python Relative to other tools.
-  + Excel
-  + Other Programming Languages
-  + Comparison with R
-  + Using Javascript for Visualization
-
-** Week 1
-
-[[https://colab.research.google.com/drive/1f2JRrZsZ029JNiPnP_GNiVsyi-e6MXO5][Colab Notebook]]
-
-- You are on a Linux Server
--  Interacting with Python
-  + Google's Colab and Jupyter
-    - Introduction to markdown
-    - Sharing notebooks
-- Creating Functions and Time-Value-of-Money calculations
-- Basic control flow
-  + The importance of indentation
-
-** Week 2
-
-[[https://colab.research.google.com/drive/12QKdTc3ulsEQ2cAdmbhq5RkTx9oB1YZ_][Colab Notebook]]
-
-The Python ecosystem.
-
--  An Introduction to Useful Packages:
-  + [[https://pandas.pydata.org/][Pandas]]
-  + [[https://numpy.org/][Numpy]]
-  + Scipy and Scikit Learn
-  + Pytorch
-  + Tensorflow and Keras 
-
-- Finding Packages
-  + pip
-
-- Python Packages
-  + Extending the core language
-  + Our most used packages.
-  + Installing and Loading.
-  + How to call methods/functions from a package.
-
--  Python Classes and Object Orientation
-  + What is a Class
-  + Function vs Method:  methods are functions attached to a class
-
-** Week 3
-
-[[https://colab.research.google.com/drive/1KLqsQWbXHYSruQXBAJ1QamsxV9FLDN_R][Colab Notebook]]
-
-- An intro to Pandas
-- Reading csv and excel files.
-  + Locally and over the web.
-- Inspecting the objects
-- Determining dataframe size and the column types.
-- Adding new columns
-
-** Week 4
-
-[[https://colab.research.google.com/drive/16UVjO2PEQUN5b1JoI__JYfj7K_aMuom7#scrollTo=nBbjWR1JYksh][Colab Notebook]]
-
-** Week 5
-
-[[https://colab.research.google.com/drive/18axbgTGt66R7fXa3tsiErQMoyb8m-AJD][Colab Notebook]]
-
-** Week 6
-
-[[https://colab.research.google.com/drive/1TWjqlgTp1Fyyy_ykp48LBVFWjRqtBwzo][Colab Notebook]]
-
-SQL from Python
-
-** Week 7
-
-[[https://colab.research.google.com/drive/16h1ykVWbb5fL-xRgOrYmYe9SqfrSin1x#scrollTo=4cmbxkCjM1fH][Colab Notebook]]
-
-- An introduction to Application Programming Interfaces (APIs) and online
-  data
-  + Example: Coinbase API
-  + Example: Interactive Brokers API
-  + EIA API.
-- Connecting to databases.
-
-** Week 8
-
-[[https://colab.research.google.com/drive/1GGXpVBhSIypRslVcjWB5TYcexeRxZlyY][Colab Notebook]]
-
--  An overview of scipy and basic statistics in Python.
-  + Extracting coefficients from an estimated regression model.
-
-** Week 9
-
-[[https://colab.research.google.com/drive/1u4BUOasPaIVfe8-rD73QXlXmt5EMIMxK][Colab Notebook]]
-
-** Week 10
-
-The previous sections have used data available online through APIs and simple files.  Commonly the financial analyst will have to query relational (SQL) databases.  In this section we'll cover the basics of connecting to a SQL database in Python, and executing SQL queries.  The resulting data table will, of course, be imported back into Python.
-
--  Good website to learn SQL (MySQL): [[https://www.db-fiddle.com/][db-fiddle]]
-
-# A quick project using SQL.  Is there an online SQL database we can query?  Should we just put the FDIC one online?
-
-
-** Week 11
-
-[[https://colab.research.google.com/drive/1CQ00H_duTY2lhiwzJ041JTPD6BGBdk5y#scrollTo=Z5RfT4TNucfe][Colab Notebook]]
-
-- Visualization:
-  + Matplotlib
-  + Seaborn
-  + Plotly
-  + ggplot (using plotnine library)
-- Interactive Web Apps via Plotly's Dash
-
-** Week 12
-
-- The Integrated Development Environment (IDE)
-  + What does an IDE provide?
-    - Code Completion
-    - Linter
-  + Git/Github and IDE Integration
-
-** Week 13
-
-- Git/Github and IDE Integration
-  + Why use version control?
-    - Collaborate with others more easily.
-    - Show others your work.
-
-- [[https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb][Github from Colab]]
-
-- Virtual Environments
-  +  Ensuring compatible python and package versions.
-  +  Anaconda Python
-
-** Bonus Project: The Pairs Trade
-** Bonus Project: Classify Failed Banks with a Deep Neural Network
-** Algorithm Identification in High-Frequency Markets
-** Determining the Effect of Bank Capital Adequacy Requirements
-** Bank Stress Testing
-** Machine Learning in Portfolio Construction
-** Constructing an Artificial Intelligence Investment Advisor
+See the weekly Colab Notebook links and videos in the Content section of our course in BB.
 
 * Exams
 
-There will be two brief exams---a midterm and a final.
+There are no exams scheduled, however a final exam may be added at the instructor's discretion. 
 
 * Attendance/Participation
 
+You will receive participation points for using the discussion board to ask and answer questions.  Sending me emails asking non-personal course related questions (against the course communication policy) will cause you to lose participation points.
+
+#+begin_comment
 Throughout the semester I will take attendance, give unanounced quizzes, and otherwise evaluate your participation.  Failure to attend class and participate will reduce your participation score, unless your absence is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
+#+end_comment
 
 * Grading
 
@@ -218,8 +92,8 @@ Throughout the semester I will take attendance, give unanounced quizzes, and oth
 
 | Item                     | Points |
 |--------------------------+--------|
-| Assignments              |     80 |
-| Attendance/Participation |     20 |
+| Assignments              |     90 |
+| Attendance/Participation |     10 |
 |--------------------------+--------|
 | Total Points             |    100 |
 |--------------------------+--------|
@@ -254,6 +128,8 @@ There is no special consideration if you need a certain grade in this course to 
 
 * How To Ask Questions
 
+The more information you provide, the more likely I will be able to answer your question.  If you simply say "I got an error" then you should not expect anyone to be able to help.  At the very least provide the text of the error.
+
 [[https://stackoverflow.com/help/how-to-ask][See this post.]]  
 
 * Email Communication
@@ -273,3 +149,13 @@ If you experience any access concerns that may require the need for adaptive or 
 
 For information related to these services or to schedule an appointment, please contact the Office of Disability Services using the information provided below.  The Office of Disability Services can accommodate virtual meeting requests.  The website has helpful information, and the link can be found here: https://sunypoly.edu/student-life/diversity-equity-inclusion/disabilities-services/contact-us.html
 #+end_quote
+
+* Bonus Project Ideas
+None of these are necessary, and should not take the place of any assigned work.
+** The Pairs Trade
+** Classify Failed Banks with a Deep Neural Network
+** Algorithm Identification in High-Frequency Markets
+** Determining the Effect of Bank Capital Adequacy Requirements
+** Bank Stress Testing
+** Machine Learning in Portfolio Construction
+** Constructing an Artificial Intelligence Investment Advisor
