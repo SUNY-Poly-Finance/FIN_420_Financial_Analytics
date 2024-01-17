@@ -24,11 +24,9 @@ SCHOOL OF BUSINESS ADMINISTRATION
 \\
 **Email**:  matthew.brigida@sunypoly.edu\\
 \\
-**Class Location**: Online Asynchronous\\
+**Class Location**: Donovon 1157\\
 \\
-#+begin_comment
-**Class Day/Time**: Wednesdays 6:00--9:30pm\\
-#+end_comment
+**Class Day/Time**: Tuesdays 6:00--9:30pm\\
 \\
 **Supplementary Texts/Materials**:
 # + Advanced R, by Hadley Wickam (http://adv-r.had.co.nz/)
@@ -40,18 +38,6 @@ SCHOOL OF BUSINESS ADMINISTRATION
 
 An overview of analytical methods used in finance, and their applications.  Particular focus will be paid to methods for handling large data sets used in high-frequency trading, and machine learning and artificial intelligence methods applied to banking, investments, and energy markets.
 
-#+begin_comment
-Overview
-
--  This course will present the fundamentals of managerial finance as a vital part of the complete business ecosystem. Importance is placed on becoming familiar with the rudimentary tools and techniques that act as the basis for all further study and function of finance.
-
--  Emphasis is also placed on exploring the human, technological, and environmental impacts on financial decision making and the societal variables that facilitate positive (financial and social) outcomes.
-
--  Attention to current events and linkage between financial markets and corporate decision-making and vis-a-vis is discussed.
-
--  Introduction to the role of the change agent and changing technology in financial analysis and financial decision-making processes.
-#+end_comment
-
 ** Course Learning Outcomes & Objectives
 
 + CLO 1. Technical Competence: Adept in applying analytics technology to solve institutional problems and enable effective financial decision making.
@@ -61,18 +47,17 @@ Overview
 
 * Due Dates
 
-#+begin_comment
-The week 1 Colab notebook is due January 29.  Each Sunday thereafter the next Colab notebook is due.  For example, the week 2 Colab notebook is due February 5th.
+The week 1 Colab notebook is due January 28.  Each Sunday thereafter the next Colab notebook is due.  For example, the week 2 Colab notebook is due February 5th.
 
 It is important that you submit your assignment by the due date, particularly early in the semester.  By doing so we can identify any issues early.
-#+end_comment
 
+#+begin_comment
 Assignments 1 through 6 are due June 30.  Assignments 7 through 12 are due July 23.  
-
+#+end_comment
 
 * Course Outline
 
-See the weekly Colab Notebook links and videos in the Content section of our course in BB.
+See the weekly Colab Notebook links and videos in the course outline.
 
 * Exams
 
@@ -80,11 +65,11 @@ There are no exams scheduled, however a final exam may be added at the instructo
 
 * Attendance/Participation
 
-You will receive participation points for using the discussion board to ask and answer questions.  Sending me emails asking non-personal course related questions (against the course communication policy) will cause you to lose participation points.
-
 #+begin_comment
-Throughout the semester I will take attendance, give unanounced quizzes, and otherwise evaluate your participation.  Failure to attend class and participate will reduce your participation score, unless your absence is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
+You will receive participation points for using the discussion board to ask and answer questions.  Sending me emails asking non-personal course related questions (against the course communication policy) will cause you to lose participation points.
 #+end_comment
+
+Throughout the semester I will take attendance, may give unannounced quizzes, and otherwise evaluate your participation.  Failure to attend class and participate will reduce your participation score.
 
 * Grading
 
@@ -98,15 +83,15 @@ Throughout the semester I will take attendance, give unanounced quizzes, and oth
 | Total Points             |    100 |
 |--------------------------+--------|
 #+END_CENTER
+
+
 #+begin_comment
-| Midterm                  |     10 |
-| Final Exam               |     10 |
-#+end_comment
 # #+BEGIN_CENTER
 Final grades will be assigned according to the A+, A, A-, etc scale.
 # #+END_CENTER
+#+end_comment
 
-#+begin_comment
+
 - 90 - 100 A
 - 80 - 89.9 B
 - 70 - 79.9 C
@@ -116,9 +101,6 @@ Final grades will be assigned according to the A+, A, A-, etc scale.
 #+BEGIN_QUOTE
 +/- grades may be assigned at the instructors discretion.
 #+END_QUOTE
-
-#+end_comment
-
 
 ** An Important Note on Grading
 
@@ -134,7 +116,11 @@ The more information you provide, the more likely I will be able to answer your 
 
 * Email Communication
 
+Questions about course material should be asked in class.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 420). 
+
+#+begin_comment
 Questions about course material should be posted to the most relevant discussion board.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 420). 
+#+end_comment
 
 * Guidelines and Accommodations
 
@@ -151,11 +137,15 @@ For information related to these services or to schedule an appointment, please 
 #+end_quote
 
 * Bonus Project Ideas
+
 None of these are necessary, and should not take the place of any assigned work.
-** The Pairs Trade
-** Classify Failed Banks with a Deep Neural Network
-** Algorithm Identification in High-Frequency Markets
-** Determining the Effect of Bank Capital Adequacy Requirements
-** Bank Stress Testing
-** Machine Learning in Portfolio Construction
-** Constructing an Artificial Intelligence Investment Advisor
+
+- [[https://colab.research.google.com/drive/1OtpEsx3RyoishcmKX4Q0a_DZ2XHM3rje?usp=sharing][Option Greeks in Margrabe]]
+- The Pairs Trade
+- Classify Failed Banks with a Deep Neural Network
+- Algorithm Identification in High-Frequency Markets
+- Determining the Effect of Bank Capital Adequacy Requirements
+- Bank Stress Testing
+- Machine Learning in Portfolio Construction
+- Constructing an Artificial Intelligence Investment Advisor
+

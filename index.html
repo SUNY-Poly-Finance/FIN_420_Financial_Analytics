@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2023-05-29 Mon 17:14 -->
+<!-- 2024-01-16 Tue 23:28 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -14,6 +14,38 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
 <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script>
+  window.MathJax = {
+    tex: {
+      ams: {
+        multlineWidth: '85%'
+      },
+      tags: 'ams',
+      tagSide: 'right',
+      tagIndent: '.8em'
+    },
+    chtml: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    svg: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    output: {
+      font: 'mathjax-modern',
+      displayOverflow: 'overflow'
+    }
+  };
+</script>
+
+<script
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 </head>
 <body>
 <div id="content" class="content">
@@ -21,38 +53,28 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org4b0f33b">1. Description</a>
+<li><a href="#orgecac8b3">1. Description</a>
 <ul>
-<li><a href="#org0441c7a">1.1. Course Learning Outcomes &amp; Objectives</a></li>
+<li><a href="#orgf85b122">1.1. Course Learning Outcomes &amp; Objectives</a></li>
 </ul>
 </li>
-<li><a href="#org7e8ebd1">2. Due Dates</a></li>
-<li><a href="#org43d549e">3. Course Outline</a></li>
-<li><a href="#orgbcc0c30">4. Exams</a></li>
-<li><a href="#orgd7218f5">5. Attendance/Participation</a></li>
-<li><a href="#orgab1a96f">6. Grading</a>
+<li><a href="#org975254c">2. Due Dates</a></li>
+<li><a href="#org77797a9">3. Course Outline</a></li>
+<li><a href="#orgbe8ac84">4. Exams</a></li>
+<li><a href="#orgf4e50bd">5. Attendance/Participation</a></li>
+<li><a href="#org7b17687">6. Grading</a>
 <ul>
-<li><a href="#orgec3f979">6.1. An Important Note on Grading</a></li>
+<li><a href="#orgd0a1ca2">6.1. An Important Note on Grading</a></li>
 </ul>
 </li>
-<li><a href="#org78fe3a8">7. How To Ask Questions</a></li>
-<li><a href="#orgfdbbe97">8. Email Communication</a></li>
-<li><a href="#orgfc2f4ae">9. Guidelines and Accommodations</a>
+<li><a href="#orgd0e0ea0">7. How To Ask Questions</a></li>
+<li><a href="#orga032160">8. Email Communication</a></li>
+<li><a href="#orgf6b2be2">9. Guidelines and Accommodations</a>
 <ul>
-<li><a href="#orgd36ad63">9.1. Accommodations for Students with Disabilities</a></li>
+<li><a href="#org137af53">9.1. Accommodations for Students with Disabilities</a></li>
 </ul>
 </li>
-<li><a href="#orga264905">10. Bonus Project Ideas</a>
-<ul>
-<li><a href="#org1139ced">10.1. The Pairs Trade</a></li>
-<li><a href="#org3e0a2f0">10.2. Classify Failed Banks with a Deep Neural Network</a></li>
-<li><a href="#org1bfd98f">10.3. Algorithm Identification in High-Frequency Markets</a></li>
-<li><a href="#orgb2442d5">10.4. Determining the Effect of Bank Capital Adequacy Requirements</a></li>
-<li><a href="#orgf01d74e">10.5. Bank Stress Testing</a></li>
-<li><a href="#org8c81da2">10.6. Machine Learning in Portfolio Construction</a></li>
-<li><a href="#orgb1214a1">10.7. Constructing an Artificial Intelligence Investment Advisor</a></li>
-</ul>
-</li>
+<li><a href="#org171f2e7">10. Bonus Project Ideas</a></li>
 </ul>
 </div>
 </div>
@@ -85,11 +107,9 @@ SCHOOL OF BUSINESS ADMINISTRATION
 <br />
 <b><b>Email</b></b>:  matthew.brigida@sunypoly.edu<br />
 <br />
-<b><b>Class Location</b></b>: Online Asynchronous<br />
+<b><b>Class Location</b></b>: Donovon 1157<br />
 <br />
-</p>
-
-<p>
+<b><b>Class Day/Time</b></b>: Tuesdays 6:00&#x2013;9:30pm<br />
 <br />
 <b><b>Supplementary Texts/Materials</b></b>:
 </p>
@@ -98,16 +118,16 @@ SCHOOL OF BUSINESS ADMINISTRATION
 <li><a href="https://financial-education.github.io/">Financial Education</a></li>
 </ul>
 
-<div id="outline-container-org4b0f33b" class="outline-2">
-<h2 id="org4b0f33b"><span class="section-number-2">1.</span> Description</h2>
+<div id="outline-container-orgecac8b3" class="outline-2">
+<h2 id="orgecac8b3"><span class="section-number-2">1.</span> Description</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 An overview of analytical methods used in finance, and their applications.  Particular focus will be paid to methods for handling large data sets used in high-frequency trading, and machine learning and artificial intelligence methods applied to banking, investments, and energy markets.
 </p>
 </div>
 
-<div id="outline-container-org0441c7a" class="outline-3">
-<h3 id="org0441c7a"><span class="section-number-3">1.1.</span> Course Learning Outcomes &amp; Objectives</h3>
+<div id="outline-container-orgf85b122" class="outline-3">
+<h3 id="orgf85b122"><span class="section-number-3">1.1.</span> Course Learning Outcomes &amp; Objectives</h3>
 <div class="outline-text-3" id="text-1-1">
 <ul class="org-ul">
 <li>CLO 1. Technical Competence: Adept in applying analytics technology to solve institutional problems and enable effective financial decision making.</li>
@@ -119,27 +139,30 @@ An overview of analytical methods used in finance, and their applications.  Part
 </div>
 </div>
 
-<div id="outline-container-org7e8ebd1" class="outline-2">
-<h2 id="org7e8ebd1"><span class="section-number-2">2.</span> Due Dates</h2>
+<div id="outline-container-org975254c" class="outline-2">
+<h2 id="org975254c"><span class="section-number-2">2.</span> Due Dates</h2>
 <div class="outline-text-2" id="text-2">
 <p>
-Assignments 1 through 6 are due June 30.  Assignments 7 through 12 are due July 23.  
+The week 1 Colab notebook is due January 28.  Each Sunday thereafter the next Colab notebook is due.  For example, the week 2 Colab notebook is due February 5th.
+</p>
+
+<p>
+It is important that you submit your assignment by the due date, particularly early in the semester.  By doing so we can identify any issues early.
 </p>
 </div>
 </div>
 
-
-<div id="outline-container-org43d549e" class="outline-2">
-<h2 id="org43d549e"><span class="section-number-2">3.</span> Course Outline</h2>
+<div id="outline-container-org77797a9" class="outline-2">
+<h2 id="org77797a9"><span class="section-number-2">3.</span> Course Outline</h2>
 <div class="outline-text-2" id="text-3">
 <p>
-See the weekly Colab Notebook links and videos in the Content section of our course in BB.
+See the weekly Colab Notebook links and videos in the course outline.
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgbcc0c30" class="outline-2">
-<h2 id="orgbcc0c30"><span class="section-number-2">4.</span> Exams</h2>
+<div id="outline-container-orgbe8ac84" class="outline-2">
+<h2 id="orgbe8ac84"><span class="section-number-2">4.</span> Exams</h2>
 <div class="outline-text-2" id="text-4">
 <p>
 There are no exams scheduled, however a final exam may be added at the instructor's discretion. 
@@ -147,17 +170,17 @@ There are no exams scheduled, however a final exam may be added at the instructo
 </div>
 </div>
 
-<div id="outline-container-orgd7218f5" class="outline-2">
-<h2 id="orgd7218f5"><span class="section-number-2">5.</span> Attendance/Participation</h2>
+<div id="outline-container-orgf4e50bd" class="outline-2">
+<h2 id="orgf4e50bd"><span class="section-number-2">5.</span> Attendance/Participation</h2>
 <div class="outline-text-2" id="text-5">
 <p>
-You will receive participation points for using the discussion board to ask and answer questions.  Sending me emails asking non-personal course related questions (against the course communication policy) will cause you to lose participation points.
+Throughout the semester I will take attendance, may give unannounced quizzes, and otherwise evaluate your participation.  Failure to attend class and participate will reduce your participation score.
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgab1a96f" class="outline-2">
-<h2 id="orgab1a96f"><span class="section-number-2">6.</span> Grading</h2>
+<div id="outline-container-org7b17687" class="outline-2">
+<h2 id="org7b17687"><span class="section-number-2">6.</span> Grading</h2>
 <div class="outline-text-2" id="text-6">
 <div class="org-center">
 <p>
@@ -198,14 +221,24 @@ You will receive participation points for using the discussion board to ask and 
 </table>
 </div>
 
+
+<ul class="org-ul">
+<li>90 - 100 A</li>
+<li>80 - 89.9 B</li>
+<li>70 - 79.9 C</li>
+<li>60 - 69.9 D</li>
+<li>\(<\) 60 F</li>
+</ul>
+
+<blockquote>
 <p>
-Final grades will be assigned according to the A+, A, A-, etc scale.
++/- grades may be assigned at the instructors discretion.
 </p>
+</blockquote>
 </div>
 
-
-<div id="outline-container-orgec3f979" class="outline-3">
-<h3 id="orgec3f979"><span class="section-number-3">6.1.</span> An Important Note on Grading</h3>
+<div id="outline-container-orgd0a1ca2" class="outline-3">
+<h3 id="orgd0a1ca2"><span class="section-number-3">6.1.</span> An Important Note on Grading</h3>
 <div class="outline-text-3" id="text-6-1">
 <blockquote>
 <p>
@@ -216,8 +249,8 @@ There is no special consideration if you need a certain grade in this course to 
 </div>
 </div>
 
-<div id="outline-container-org78fe3a8" class="outline-2">
-<h2 id="org78fe3a8"><span class="section-number-2">7.</span> How To Ask Questions</h2>
+<div id="outline-container-orgd0e0ea0" class="outline-2">
+<h2 id="orgd0e0ea0"><span class="section-number-2">7.</span> How To Ask Questions</h2>
 <div class="outline-text-2" id="text-7">
 <p>
 The more information you provide, the more likely I will be able to answer your question.  If you simply say "I got an error" then you should not expect anyone to be able to help.  At the very least provide the text of the error.
@@ -229,25 +262,25 @@ The more information you provide, the more likely I will be able to answer your 
 </div>
 </div>
 
-<div id="outline-container-orgfdbbe97" class="outline-2">
-<h2 id="orgfdbbe97"><span class="section-number-2">8.</span> Email Communication</h2>
+<div id="outline-container-orga032160" class="outline-2">
+<h2 id="orga032160"><span class="section-number-2">8.</span> Email Communication</h2>
 <div class="outline-text-2" id="text-8">
 <p>
-Questions about course material should be posted to the most relevant discussion board.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 420). 
+Questions about course material should be asked in class.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 420). 
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgfc2f4ae" class="outline-2">
-<h2 id="orgfc2f4ae"><span class="section-number-2">9.</span> Guidelines and Accommodations</h2>
+<div id="outline-container-orgf6b2be2" class="outline-2">
+<h2 id="orgf6b2be2"><span class="section-number-2">9.</span> Guidelines and Accommodations</h2>
 <div class="outline-text-2" id="text-9">
 <p>
 Academic Integrity Policy Students Enrolled in this course are required to understand and fully comply with all aspects of the Academic Integrity Policy as described in the SUNY Polytechnic Institute Handbook (available at:  <a href="https://sunypoly.edu/pdf/student_handbook.pdf">https://sunypoly.edu/pdf/student_handbook.pdf</a> )
 </p>
 </div>
 
-<div id="outline-container-orgd36ad63" class="outline-3">
-<h3 id="orgd36ad63"><span class="section-number-3">9.1.</span> Accommodations for Students with Disabilities</h3>
+<div id="outline-container-org137af53" class="outline-3">
+<h3 id="org137af53"><span class="section-number-3">9.1.</span> Accommodations for Students with Disabilities</h3>
 <div class="outline-text-3" id="text-9-1">
 <blockquote>
 <p>
@@ -266,38 +299,28 @@ For information related to these services or to schedule an appointment, please 
 </div>
 </div>
 
-<div id="outline-container-orga264905" class="outline-2">
-<h2 id="orga264905"><span class="section-number-2">10.</span> Bonus Project Ideas</h2>
+<div id="outline-container-org171f2e7" class="outline-2">
+<h2 id="org171f2e7"><span class="section-number-2">10.</span> Bonus Project Ideas</h2>
 <div class="outline-text-2" id="text-10">
 <p>
 None of these are necessary, and should not take the place of any assigned work.
 </p>
-</div>
-<div id="outline-container-org1139ced" class="outline-3">
-<h3 id="org1139ced"><span class="section-number-3">10.1.</span> The Pairs Trade</h3>
-</div>
-<div id="outline-container-org3e0a2f0" class="outline-3">
-<h3 id="org3e0a2f0"><span class="section-number-3">10.2.</span> Classify Failed Banks with a Deep Neural Network</h3>
-</div>
-<div id="outline-container-org1bfd98f" class="outline-3">
-<h3 id="org1bfd98f"><span class="section-number-3">10.3.</span> Algorithm Identification in High-Frequency Markets</h3>
-</div>
-<div id="outline-container-orgb2442d5" class="outline-3">
-<h3 id="orgb2442d5"><span class="section-number-3">10.4.</span> Determining the Effect of Bank Capital Adequacy Requirements</h3>
-</div>
-<div id="outline-container-orgf01d74e" class="outline-3">
-<h3 id="orgf01d74e"><span class="section-number-3">10.5.</span> Bank Stress Testing</h3>
-</div>
-<div id="outline-container-org8c81da2" class="outline-3">
-<h3 id="org8c81da2"><span class="section-number-3">10.6.</span> Machine Learning in Portfolio Construction</h3>
-</div>
-<div id="outline-container-orgb1214a1" class="outline-3">
-<h3 id="orgb1214a1"><span class="section-number-3">10.7.</span> Constructing an Artificial Intelligence Investment Advisor</h3>
+
+<ul class="org-ul">
+<li><a href="https://colab.research.google.com/drive/1OtpEsx3RyoishcmKX4Q0a_DZ2XHM3rje?usp=sharing">Option Greeks in Margrabe</a></li>
+<li>The Pairs Trade</li>
+<li>Classify Failed Banks with a Deep Neural Network</li>
+<li>Algorithm Identification in High-Frequency Markets</li>
+<li>Determining the Effect of Bank Capital Adequacy Requirements</li>
+<li>Bank Stress Testing</li>
+<li>Machine Learning in Portfolio Construction</li>
+<li>Constructing an Artificial Intelligence Investment Advisor</li>
+</ul>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2023-05-29 Mon 17:14</p>
+<p class="date">Created: 2024-01-16 Tue 23:28</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
