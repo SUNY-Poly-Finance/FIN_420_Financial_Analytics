@@ -1,6 +1,6 @@
 #+TITLE:
 #+AUTHOR: 
-#+OPTIONS: toc:nil
+# #+OPTIONS: toc:nil
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+DATE:
 
@@ -20,7 +20,7 @@ SCHOOL OF BUSINESS ADMINISTRATION
 \\
 **Office**: Donovan 1277\\
 \\
-**Office Hours**: On request.\\
+**Office Hours**: Tuesdays 4:00--6:00pm\\
 \\
 **Email**:  matthew.brigida@sunypoly.edu\\
 \\
