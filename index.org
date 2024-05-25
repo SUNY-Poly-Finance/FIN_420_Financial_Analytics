@@ -9,28 +9,26 @@ SUNY POLYTECHNIC INSTITUTE
 
 SCHOOL OF BUSINESS ADMINISTRATION
 #+END_CENTER
-\\
-\\
 #+BEGIN_CENTER
 **FIN 420: FINANCIAL ANALYTICS**
 #+END_CENTER
 \\
+**Instructor**: Matthew Brigida, Ph.D.
 \\
-**Instructor**: Matthew Brigida, Ph.D.\\
-\\
-**Office**: Donovan 1277\\
-\\
-**Office Hours**: Tuesdays 4:00--6:00pm\\
-\\
-**Email**:  matthew.brigida@sunypoly.edu\\
-\\
-**Class Location**: Donovon 1157\\
-\\
-**Class Day/Time**: Tuesdays 6:00--9:30pm\\
+**Office**: Donovan 1277 \\
+**Office Hours**: Online in Brightspace \\
+**Email**:  matthew.brigida@sunypoly.edu \\
+**Class Location**: Brightspace \\
+**Class Day/Time**: Online (Asynchronous) \\
+#+begin_comment
+**Office Hours**: Tuesdays 4:00--6:00pm
+**Class Location**: Donovon 1157
+**Class Day/Time**: Tuesdays 6:00--9:30pm
+#+end_comment
 \\
 **Supplementary Texts/Materials**:
-# + Advanced R, by Hadley Wickam (http://adv-r.had.co.nz/)
 + [[https://financial-education.github.io/][Financial Education]]
+# + Advanced R, by Hadley Wickam (http://adv-r.had.co.nz/)
 # + Python for Finance: Analyze Big Financial Data, Hilpisch,  ISBN-10: 9781491945285 
 # + Quantitative Financial Analytics: The Path To Investment Profits, by Edward E Williams and John A Dobelman.  ISBN-13: 978-9813224254
 
@@ -47,17 +45,18 @@ An overview of analytical methods used in finance, and their applications.  Part
 
 * Due Dates
 
+#+begin_comment
 The week 1 Colab notebook is due January 28.  Each Sunday thereafter the next Colab notebook is due.  For example, the week 2 Colab notebook is due February 5th.
 
 It is important that you submit your assignment by the due date, particularly early in the semester.  By doing so we can identify any issues early.
-
-#+begin_comment
-Assignments 1 through 6 are due June 30.  Assignments 7 through 12 are due July 23.  
 #+end_comment
+
+Summer courses are accelerated---you complete a full 14 week course in 8 weeks.  Therefore you will average more than 1 week [[https://financial-education.github.io/python_for_finance_outline/][in this outline]] every week of this course.  Assignments (weeks in the outline) 1 through 6 are due June 21.  Assignments 7 through 12 are due July 19.  
+
 
 * Course Outline
 
-See the weekly Colab Notebook links and videos in the course outline.
+[[https://financial-education.github.io/python_for_finance_outline/][See the weekly Colab Notebook links and videos in the course outline.]]
 
 * Exams
 
