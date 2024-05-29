@@ -53,6 +53,12 @@ It is important that you submit your assignment by the due date, particularly ea
 
 Summer courses are accelerated---you complete a full 14 week course in 8 weeks.  Therefore you will average more than 1 week [[https://financial-education.github.io/python_for_finance_outline/][in this outline]] every week of this course.  Assignments (weeks in the outline) 1 through 6 are due June 21.  Assignments 7 through 12 are due July 19.  
 
+* How to Submit Your Colab Notebook
+
+To submit your notebook simply paste the link to your completed notebook in the D2L/Brightspace dropbox.  There are two additional key points:
+
+1.  Make sure your Colab notebook sharing setting is set to 'viewable by anyone on the web'.  I can't grade your notebook if I can't see it.
+2.  If you open a notebook and modify it, it doesn't automatically create a new URL.  So if you copy the URL and submit it, you are giving me a link to /my own notebook/ with none of your changes. So once you modify a notebook that you want to submit, save the Colab notebook to Google Drive to create a unique URL.
 
 * Course Outline
 
