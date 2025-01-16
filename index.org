@@ -89,14 +89,6 @@ Throughout the semester I will take attendance, may give unannounced quizzes, an
 |--------------------------+--------|
 #+END_CENTER
 
-
-#+begin_comment
-# #+BEGIN_CENTER
-Final grades will be assigned according to the A+, A, A-, etc scale.
-# #+END_CENTER
-#+end_comment
-
-
 - 90 - 100 A
 - 80 - 89.9 B
 - 70 - 79.9 C
@@ -145,6 +137,7 @@ For information related to these services or to schedule an appointment, please 
 
 None of these are necessary, and should not take the place of any assigned work.
 
+- Cryptocurrency Factor Model
 - [[https://colab.research.google.com/drive/1OtpEsx3RyoishcmKX4Q0a_DZ2XHM3rje?usp=sharing][Option Greeks in Margrabe]]
 - The Pairs Trade
 - Classify Failed Banks with a Deep Neural Network
