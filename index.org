@@ -45,7 +45,7 @@ An overview of analytical methods used in finance, and their applications.  Part
 
 * Due Dates
 
-The week 1 Colab notebook is due February 1.  Each Sunday thereafter the next Colab notebook is due.  For example, the week 2 Colab notebook is due February 8th.
+The week 1 Colab notebook is due February 2.  Each Sunday thereafter the next Colab notebook is due.  For example, the week 2 Colab notebook is due February 9th.
 
 It is important that you submit your assignment by the due date, particularly early in the semester.  By doing so we can identify any issues early.  If you submit your notebook after the due date you will receive a 0 on the assignment.
 
