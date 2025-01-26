@@ -147,3 +147,6 @@ None of these are necessary, and should not take the place of any assigned work.
 - Machine Learning in Portfolio Construction
 - Constructing an Artificial Intelligence Investment Advisor
 
+* An Important Note on Asynchronous Courses
+
+The term /asynchronous/ means we do not meet in real time, but rather manage the course through videos and discuss posts.  I will offer office hours throughout the semester, and I try to make them at convenient times. However, given your schedule you may not be able to attend these office hours.  In this case we will not meet in real time.  If you feel you absolutely must meet to complete this course, then you **should not** take the course in asynchronous format.  You should sign up for a synchronous version (either online or in-person).  There is also no private meetings---the only meetings are office hours where any student may be in attendance.
