@@ -45,13 +45,18 @@ An overview of analytical methods used in finance, and their applications.  Part
 
 * Due Dates
 
-The week 1 Colab notebook is due February 2.  Each Sunday thereafter the next Colab notebook is due.  For example, the week 2 Colab notebook is due February 9th.
 
-It is important that you submit your assignment by the due date, particularly early in the semester.  By doing so we can identify any issues early.  If you submit your notebook after the due date you will receive a 0 on the assignment.
+Summer courses are accelerated---you complete a full 14 week course in 8 weeks.  Therefore you will average more than 1 week [[https://financial-education.github.io/python_for_finance_outline/][in this outline]] every week of this course.  Assignments (weeks in the outline) 1 and 2 are due June 8th, and each Sunday thereafter the next 2 Colab notebooks are due.  For example, the weeks 3 and 4 Colab notebooks are due June 15th.
 
 #+begin_comment
-Summer courses are accelerated---you complete a full 14 week course in 8 weeks.  Therefore you will average more than 1 week [[https://financial-education.github.io/python_for_finance_outline/][in this outline]] every week of this course.  Assignments (weeks in the outline) 1 through 6 are due June 21.  Assignments 7 through 12 are due July 19.  
+through 6 are due June 21.  Assignments 7 through 12 are due July 19.  
 #+end_comment
+
+#+begin_comment
+The week 1 Colab notebook is due February 2.  Each Sunday thereafter the next Colab notebook is due.  For example, the week 2 Colab notebook is due February 9th.
+#+end_comment
+
+It is important that you submit your assignment by the due date, particularly early in the semester.  By doing so we can identify any issues early.  If you submit your notebook after the due date you will receive a 0 on the assignment.
 
 * How to Submit Your Colab Notebook
 
