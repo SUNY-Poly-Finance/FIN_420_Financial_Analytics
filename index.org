@@ -116,13 +116,15 @@ The more information you provide, the more likely I will be able to answer your 
 
 [[https://stackoverflow.com/help/how-to-ask][See this post.]]  
 
-* Email Communication
-
-Questions about course material should be asked in class.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 420). 
+* Course Communication
 
 #+begin_comment
-Questions about course material should be posted to the most relevant discussion board.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 420). 
+Questions about course material should be asked in class.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 420). 
 #+end_comment
+
+Questions about course material should be posted to the most relevant discussion board.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 420). 
+
+I will post office hours on request. Usually I will try and find a time that works for the most number of students.  However, since this an asynchronous course with no set meeting time, my times for office hours may not match your schedule.  In this case we will not meet.  Note, also I do not schedule one-on-one meetings---there is not enough time in the week.  The bottom line is that you signed up for an asynchronous course, the **definition of which is we do not meet**.  If you think you *must* meet to complete this course, you should take it in a synchronous modality. 
 
 * Guidelines and Accommodations
 
