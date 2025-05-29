@@ -34,7 +34,7 @@ SCHOOL OF BUSINESS ADMINISTRATION
 
 * Description
 
-An overview of analytical methods used in finance, and their applications.  Particular focus will be paid to methods for handling large data sets used in high-frequency trading, and machine learning and artificial intelligence methods applied to banking, investments, and energy markets.
+An overview of analytical methods used in finance, and their applications.  Analytical tasks will be completed in the Python programming language.  Students need no prior experience using Python or writing code in any programming language.  Knowledge of Excel will be useful.  Particular focus will be paid to methods for handling large data sets used in high-frequency trading, and machine learning and artificial intelligence methods applied to banking, investments, and energy markets.
 
 ** Course Learning Outcomes & Objectives
 
@@ -124,7 +124,9 @@ Questions about course material should be asked in class.  Email should only be 
 
 Questions about course material should be posted to the most relevant discussion board.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 420). 
 
-I will post office hours on request. Usually I will try and find a time that works for the most number of students.  However, since this an asynchronous course with no set meeting time, my times for office hours may not match your schedule.  In this case we will not meet.  Note, also I do not schedule one-on-one meetings---there is not enough time in the week.  The bottom line is that you signed up for an asynchronous course, the **definition of which is we do not meet**.  If you think you *must* meet to complete this course, you should take it in a synchronous modality. 
+I will post office hours on request. Usually I will try and find a time that works for the most number of students.  However, since this an asynchronous course with no set meeting time, my times for office hours may not match your schedule.  In this case we will not meet.  Note, also I do not schedule one-on-one meetings---there is not enough time in the week.  The bottom line is that you signed up for an asynchronous course, the **definition of which is we do not meet**.  If you think you *must* meet to complete this course, you should take it in a synchronous modality.
+
+Also, prior to meeting in office hours be sure to review all course materials on the topic, and then first ask questions on the discussion boards.  If we can't answer the question on the discussion board then it makes sense to meet in office hours. However, if you show up to office hours and say something like, "I don't get it" I'll simply refer you to the course materials.  If you have actually made an effort to understand the material, then you should be able to ask me a clear and pointed question. 
 
 * Guidelines and Accommodations
 
