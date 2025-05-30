@@ -45,7 +45,6 @@ An overview of analytical methods used in finance, and their applications.  Anal
 
 * Due Dates
 
-
 Summer courses are accelerated---you complete a full 14 week course in 8 weeks.  Therefore you will average more than 1 week [[https://financial-education.github.io/python_for_finance_outline/][in this outline]] every week of this course.  Assignments (weeks in the outline) 1 and 2 are due June 8th, and each Sunday thereafter the next 2 Colab notebooks are due.  For example, the weeks 3 and 4 Colab notebooks are due June 15th.
 
 #+begin_comment
@@ -68,6 +67,16 @@ To submit your notebook simply paste the link to your completed notebook in the 
 * Course Outline
 
 [[https://financial-education.github.io/python_for_finance_outline/][See the weekly Colab Notebook links and videos in the course outline.]]
+
+* Policy on AI/LLM Use
+
+Artificial Intelligence (AI) and specifically Large Language Models (LLMs) are increasingly being used to help people write Python code.  They are an important tool to use to help you understand code, but you should not use them to answer your exercises.  The code you submit for your exercise must be your own. If it is clear AI wrote your code, I will substantially reduce your grade. 
+
+When completing the exercises, do not use topics and control flows which we haven't covered.  Using convoluted code to perform simple tasks is a sure sign of AI use.
+
+**Partial Credit**: If I see that AI wrote your exercise code, and any part of it is incorrect you will receive a 0 on the assignment with no ability to resubmit it.  I will also not review AI generated code.
+
+**Why Should I Learn Any Python When LLMs Can Write it for Me?** LLMs can write basic code (like that required for this course), but often gets it wrong when the task complexity becomes moderate.  If you know Python you can have the LLM generate code and then fix the errors, thereby still saving time compared with writing all the code yourself. However, if you can't fix the code LLMs become useless to you.  Also note, LLMs only repackage code that has been written, but it can't write code that hasn't already been written by someone (which eventually you may need to do).
 
 * Exams
 
