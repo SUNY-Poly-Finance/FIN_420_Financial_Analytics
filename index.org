@@ -1,7 +1,7 @@
 #+TITLE:
 #+AUTHOR: 
 # #+OPTIONS: toc:nil
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: ~/.emacs.d/org-themes/src/readtheorg_inline/readtheorg_inline.theme
 #+DATE:
 
 #+BEGIN_CENTER
@@ -13,18 +13,17 @@ SCHOOL OF BUSINESS ADMINISTRATION
 **FIN 420: FINANCIAL ANALYTICS**
 #+END_CENTER
 \\
-**Instructor**: Matthew Brigida, Ph.D.
-\\
-**Office**: Donovan 1277 \\
-**Office Hours**: Online in Brightspace \\
+**Instructor**: Matthew Brigida, Ph.D. \\
 **Email**:  matthew.brigida@sunypoly.edu \\
+**Office**: Donovan 1277 \\
+#+begin_comment
+**Office Hours**: Online in Brightspace \\
 **Class Location**: Brightspace \\
 **Class Day/Time**: Online (Asynchronous) \\
-#+begin_comment
-**Office Hours**: Tuesdays 4:00--6:00pm
-**Class Location**: Donovon 1157
-**Class Day/Time**: Tuesdays 6:00--9:30pm
 #+end_comment
+**Office Hours**: Tuesdays 4:00--6:00pm \\
+**Class Location**: Donovon 1157 \\
+**Class Day/Time**: Tuesdays 6:00--9:30pm \\
 \\
 **Supplementary Texts/Materials**:
 + [[https://financial-education.github.io/][Financial Education]]
