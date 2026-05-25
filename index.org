@@ -44,7 +44,7 @@ An overview of analytical methods used in finance, and their applications.  Anal
 
 * Due Dates
 
-Summer courses are accelerated---you complete a full 14 week course in 8 weeks.  Therefore you will average more than 1 week [[https://financial-education.github.io/python_for_finance_outline/][in this outline]] every week of this course.  Assignments (weeks in the outline) 1 and 2 are due June 8th, and each Sunday thereafter the next 2 Colab notebooks are due.  For example, the weeks 3 and 4 Colab notebooks are due June 15th.
+Summer courses are accelerated---you complete a full 14 week course in 8 weeks.  Therefore you will average more than 1 week [[https://financial-education.github.io/python_for_finance_outline/][in this outline]] every week of this course.  Assignments (weeks in the outline) 1 and 2 are due June 7th, and each Sunday thereafter the next 2 Colab notebooks are due.  For example, the weeks 3 and 4 Colab notebooks are due June 14th.
 
 #+begin_comment
 through 6 are due June 21.  Assignments 7 through 12 are due July 19.  
