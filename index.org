@@ -16,14 +16,14 @@ SCHOOL OF BUSINESS ADMINISTRATION
 **Instructor**: Matthew Brigida, Ph.D. \\
 **Email**:  matthew.brigida@sunypoly.edu \\
 **Office**: Donovan 1277 \\
-#+begin_comment
 **Office Hours**: Online in Brightspace \\
 **Class Location**: Brightspace \\
 **Class Day/Time**: Online (Asynchronous) \\
-#+end_comment
+#+begin_comment
 **Office Hours**: Tuesdays 4:00--6:00pm \\
 **Class Location**: Donovon 1157 \\
 **Class Day/Time**: Tuesdays 6:00--9:30pm \\
+#+end_comment
 \\
 **Supplementary Texts/Materials**:
 + [[https://financial-education.github.io/][Financial Education]]
